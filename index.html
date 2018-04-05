@@ -6,7 +6,78 @@
     <title>Mi página web</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <style>
+
+          .social-icon-button {
+              border-radius: 3.6rem;
+              width: 3.6rem;
+              height: 3.6rem;
+              position: relative;
+              display: inline-block;
+              text-align: center;
+              font-size: 2rem;
+              background: none;
+          }
+
+          .social-icon-button + .social-icon-button {
+              margin-left: 0.25rem;
+          }
+
+          .social-icon-button .fa {
+              background: none;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              -webkit-transform: translate(-50%, -50%);
+              -ms-transform: translate(-50%, -50%);
+              transform: translate(-50%, -50%);
+              z-index: 1;
+              line-height: 3.6rem;
+              transition: all 0.3s ease-in-out;
+          }
+
+          .social-icon-button span {
+              display: block;
+              border-radius: 0;
+              width: 0;
+              height: 0;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              -webkit-transform: translate(-50%, -50%);
+              -ms-transform: translate(-50%, -50%);
+              transform: translate(-50%, -50%);
+              transition: all 0.3s ease-in-out;
+          }
+
+          .social-icon-button:hover .fa {
+              color: #fefefe;
+          }
+
+          .social-icon-button:hover span {
+              display: block;
+              border-radius: 3.6rem;
+              width: 3.6rem;
+              height: 3.6rem;
+          }
+
+
+          .social-icon-button.twitter {
+              color: #55acee;
+          }
+
+          .social-icon-button.twitter span {
+              background-color: #55acee;
+          }
+
+          .social-icon-button.facebook {
+              color: #3b5998;
+          }
+
+          .social-icon-button.facebook span {
+              background-color: #3b5998;
+          }
       </style>
   </head>
   <body>
@@ -52,6 +123,21 @@
                       <li>Le gusta practicar deporte<br>
                       </li>
                   </div>
+          </div>
+          <div class="grid-x grid-padding-x">
+              <div class="small-12 large-8 large-offset-2 columns text-center">
+                  <br>
+                  <hr>
+                  <p><strong>Teléfono Celular:</strong> 87239401</p>
+                  <p><strong>E-mail:</strong> ferojasmel@hotmail.com</p>
+
+                  <div class="align-center text-center">
+                      <p ><STRONG>Redes sociales</STRONG></p>
+                      <a href="https://twitter.com/Ferojasmel" class="social-icon-button twitter"><i class="fa fa-twitter" aria-hidden="true"></i><span></span></a>
+
+                      <a href="https://www.facebook.com/FernandoRojasCR" class="social-icon-button facebook"><i class="fa fa-facebook" aria-hidden="true"></i><span></span></a>
+                  </div>
+              </div>
 
           </div>
       </div>
