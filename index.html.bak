@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi página web</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+    <div class="grid-x grid-padding-x">
+      <div class="small-12 columns">
+        <h1 class="text-center"> Bienvenido a la página web de Fernando Rojas </h1>
+        <hr> </div>
+    </div>
+    <div class="grid-x grid-padding-x">
+      <ul class="menu">
+        <li class="menu-text">Secciones</li>
+        <li class="active"><a href="#">Inicio</a></li>
+        <li><a href="#">Mis objetivos</a></li>
+        <li><a href="#">Computación</a></li>
+        <li><a href="#">Pasatiempos</a></li>
+        <li><a href="#">Acerca de este sitio</a></li>
+        <li><a href="#">Contácteme</a></li>
+      </ul>
+    </div>
+    <hr>
+    <div class="grid-x grid-padding-x">
+      <div class="small-6 cell">
+        <div class="callout">
+          <h3 class="text-center">Fernando Rojas</h3>
+          <img src="fotoFer.png" alt="yo" title="me" longdesc="Foto mía" style="width: 100%; height: match-width; border-radius: 5%">
+        </div>
+      </div>
+      <div class="small-6 cell">
+        <div class="callout">
+          <h3 class="text-center">Información</h3>
+          <li> Estudiante de Ciencias de la Computación en la Universidad de
+            Costa Rica</li>
+          <li>Cursa el cuarto año de carrera</li>
+          <li>Vive en San Antonio de Coronado</li>
+          <li>Tiene 21 años<br>
+          </li>
+          <li>Le gusta practicar deporte<br>
+          </li>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

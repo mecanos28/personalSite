@@ -1,0 +1,41 @@
+Mis objetivos con respecto al curso son:
+	Aprender sobre como funciona la world wide web en la internet
+	Conocer aptitudes valiosas acerca del desarrollo web
+	Adquirir experiencia y conocimiento en diferentes plataformas de desarrollo
+	Pasar el curso con buena nota para poder graduarme
+	
+Computación
+	Extracto de la página de la ECCI
+	
+Por qué computación
+	Desde pequeño tuve una fuerte afición por lo aparatos electronicos, desde los radios y grabadoras hasta
+	los videojuegos. Conforme pasó el tiempo fui adquiriendo también un pasión por las matemáticas y la lógica.
+	Cuando empecé a investigar sobre distintas carreras a la hora de entrar a la Universidad me di cuenta que
+	Ciencias de la Computación era un balance perfecto entre esas dos pasiones que siempre he tenido.
+	
+Cursos preferidos
+	CI-1010 Introducción a la Computación e Informática: Porque ahí aprendí a programar.
+	CI-1201 Programación II: Porque logré entender más a fondo como funciona un computadora al correr un programa.
+	CI-1221 Estructuras de Datos y Análisis de Algoritmos: Aunque fue cansado aprendí muchas aptitudes valiosas.
+	CI-1312 Bases de Datos I: Porque la profe fue muy buena.
+	CI-1322 Autómatas y Compiladores: Porque es extremadamente interesante el estudio de la construcción de un lenguaje.
+	
+Pasatiempos
+	Jugar futbol, jugar videojuegos, salgo mucho con mis amigos
+	
+Mis profesores y compañeros
+	Este semestre mis profesores son: Braulio Solano, Alvaro De La Ossa, Ileana Alpízar y Alan Calderón
+	Mis compañeros son en su mayoría los mismos B5 que he conocido desde que entré a la Universidad, aunque hay muchos B4
+	y otra gente que se ve que ya trabaja porque llega con ropa de trabajo.
+	
+Descargas
+	Link a algo
+
+Acerca de este sitio
+	Este sitio fue creado a raíz de una tarea corta individual del curso CI-2413 Desarrollo de aplicaciones para Internet.
+	Está basado y creado por Fernando Rojas Meléndez estudiante de Computación cursando su cuarto año de carrera. Su principal objetivo
+	es que pueda aprender como usar el protocolo HTML y aplicarlo correctamente.
+	
+Contácteme
+	Teléfono Celular: 87239401
+	E-mail: ferojasmel@hotmail.com
