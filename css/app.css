@@ -1,0 +1,13 @@
+.descboton{
+    background-color: #3b5998;
+    color: white;
+}
+
+.descboton:hover{
+    color: yellow;
+}
+
+.descboton:target{
+    background-color: #3b5998;
+    color: white;
+}
