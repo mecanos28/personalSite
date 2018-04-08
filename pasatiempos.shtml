@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" dir="ltr" lang="en">
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi página web: Mis objetivos</title>
-    <link rel="stylesheet" href="css/foundation.css">
-    <link rel="stylesheet" href="css/app.css">
-    <style>
-        .rotate90 {
-        -webkit-transform: rotate(90deg);
-        -moz-transform: rotate(90deg);
-        -o-transform: rotate(90deg);
-        -ms-transform: rotate(90deg);
-        transform: rotate(90deg);
-    }</style>
+    <!--#include virtual="head.shtml" -->
 </head>
 <body>
 <div class="grid-x grid-padding-x">
@@ -24,12 +11,12 @@
             <div class="small-12 columns small-centered">
                 <ul class="menu align-center">
                     <li class="menu-text">Secciones</li>
-                    <li ><a href="index.html" style="color: white">Inicio</a></li>
-                    <li><a href="misObjetivos.html" style="color: white">Mis objetivos</a></li>
-                    <li><a href="Computación.html" style="color: white">Computación</a></li>
-                    <li class="active"><a href="pasatiempos.html" style="color: white">Pasatiempos</a></li>
-                    <li><a href="acerca.html" style="color: white">Acerca de este sitio</a></li>
-                    <li><a href="contacto.html" style="color: white">Contácteme</a></li>
+                    <li ><a href="index.shtml" style="color: white">Inicio</a></li>
+                    <li><a href="misObjetivos.shtml" style="color: white">Mis objetivos</a></li>
+                    <li><a href="Computación.shtml" style="color: white">Computación</a></li>
+                    <li class="active"><a href="pasatiempos.shtml" style="color: white">Pasatiempos</a></li>
+                    <li><a href="acerca.shtml" style="color: white">Acerca de este sitio</a></li>
+                    <li><a href="contacto.shtml" style="color: white">Contácteme</a></li>
                 </ul>
             </div>
         </div>
@@ -79,4 +66,5 @@
     </div>
 </div>
 </body>
+<!--#include virtual="footer.shtml" -->
 </html>
